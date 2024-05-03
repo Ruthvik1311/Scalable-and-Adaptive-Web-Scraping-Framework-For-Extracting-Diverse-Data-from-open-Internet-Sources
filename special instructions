@@ -1,0 +1,19 @@
+Please install Visual Studios the puple icon ide from the browser
+Then install it and while installation click on the Desktop devlopment with c++ module and install it, after installation is done request restart of the system
+
+Then open a cmd and install cmake
+
+pip install cmake wheel
+
+after this is installed
+
+pip install dlib
+
+after dlib is installed
+
+pip install beepy
+
+after this is installed
+
+pip install face-recognition
+
