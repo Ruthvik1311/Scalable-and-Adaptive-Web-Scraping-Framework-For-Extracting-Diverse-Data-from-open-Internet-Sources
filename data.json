@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "name": "Shreyansh Jain",
+            "email": "shreyanshjain.tsk221@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "name": "somanath",
+            "email": "siddarthnandan14@gmail.com",
+            "age": 17,
+            "sex": "Male",
+            "password": "5b4d90e40094dac88e817784397537b4"
+        },
+        {
+            "name": "ruthvik",
+            "email": "ruthvikborra@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "46d6b109a529c982a850e3a2bffb8f07"
+        },
+        {
+            "name": "somanath",
+            "email": "exammailexpress@gmail.com",
+            "age": 19,
+            "sex": "Male",
+            "password": "67854da2eb5eb39acbb9a133ffdbe9b2"
+        }
+    ]
+}
